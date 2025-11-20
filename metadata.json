@@ -1,0 +1,5 @@
+{
+  "name": "QuantumShield Simulator",
+  "description": "A visual simulation and analysis tool for Quantum-Secure Communication using QRNG, Kyber, and Dilithium.",
+  "requestFramePermissions": []
+}
